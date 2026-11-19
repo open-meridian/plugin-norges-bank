@@ -1,0 +1,28 @@
+{
+  "said": "Norges Bank's real responses, recorded by meridian-norges-bank's authors on 2026-11-19 from its open data API (https://data.norges-bank.no/api/), each dataflow's SDMX-CSV from 3 August to 19 November 2026 as received, gzipped: SHORT_RATES (NOWA, its transactions, volume, banks and compounded index), IR (the policy rate, B.KPRA.SD.R), GOVT_GENERIC_RATES (the generic yields), GOVT_ZEROCOUPON (the zero-coupon curve) and EXR (the exchange rates against the krone). Source: Norges Bank; copied with no change to the content (https://www.norges-bank.no/en/disclaimer/). Sample data answers each request from them, and the tests read them.",
+  "nowa": {
+    "file": "nowa-20260803-20261119.csv.gz",
+    "date": "Thu, 19 Nov 2026 16:03:23 GMT",
+    "last_day": "2026-11-19"
+  },
+  "policy": {
+    "file": "policy-20260803-20261119.csv.gz",
+    "date": "Thu, 19 Nov 2026 16:03:25 GMT",
+    "last_day": "2026-11-18"
+  },
+  "generic": {
+    "file": "generic-20260803-20261119.csv.gz",
+    "date": "Thu, 19 Nov 2026 16:03:28 GMT",
+    "last_day": "2026-11-18"
+  },
+  "zero": {
+    "file": "zero-20260803-20261119.csv.gz",
+    "date": "Thu, 19 Nov 2026 16:03:30 GMT",
+    "last_day": "2026-11-18"
+  },
+  "fx": {
+    "file": "fx-20260803-20261119.csv.gz",
+    "date": "Thu, 19 Nov 2026 16:03:32 GMT",
+    "last_day": "2026-11-19"
+  }
+}

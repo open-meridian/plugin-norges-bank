@@ -1,0 +1,9 @@
+meridian-norges-bank
+Copyright 2026 Societal Lab Inc.
+
+Licensed under the Apache License, Version 2.0. See LICENSE.
+
+The data this plugin reads are Norges Bank's, published through its open
+data API (https://data.norges-bank.no/api/). Source: Norges Bank. Copied
+with Norges Bank quoted as the source and no change to the content.
+This project is not affiliated with or endorsed by Norges Bank.
